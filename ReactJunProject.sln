@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJunProject", "ReactJunProject\ReactJunProject.csproj", "{BCA2F383-15EE-4C81-9D3E-B49652C51FC8}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ReactJunProject.SqlServer", "ReactJunProject.SqlServer\ReactJunProject.SqlServer.sqlproj", "{2995900C-B455-43DF-A18B-324F844B9F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJunProject.Util", "ReactJunProject.Util\ReactJunProject.Util.csproj", "{654CFE2C-2F07-49D6-AA55-2BE28B0FE0E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA2F383-15EE-4C81-9D3E-B49652C51FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA2F383-15EE-4C81-9D3E-B49652C51FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA2F383-15EE-4C81-9D3E-B49652C51FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA2F383-15EE-4C81-9D3E-B49652C51FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2995900C-B455-43DF-A18B-324F844B9F0F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{654CFE2C-2F07-49D6-AA55-2BE28B0FE0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654CFE2C-2F07-49D6-AA55-2BE28B0FE0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654CFE2C-2F07-49D6-AA55-2BE28B0FE0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654CFE2C-2F07-49D6-AA55-2BE28B0FE0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DA1FDE-1B53-4F78-97BE-911D680C228F}
+	EndGlobalSection
+EndGlobal
